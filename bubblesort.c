@@ -3,7 +3,8 @@
 #include<string.h>
 int main(){
 	 int a;
-	 printf("hellloll");
+	 printf("hello All");
+	 printf("Changes made");
 
 
 
